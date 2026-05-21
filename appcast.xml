@@ -5,5 +5,18 @@
     <link>https://raw.githubusercontent.com/musawirali/budgie-releases/main/appcast.xml</link>
     <description>Most recent updates of Budgie</description>
     <language>en</language>
+    <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Thu, 21 May 2026 00:05:39 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>See the <a href="https://github.com/musawirali/budgie-releases/releases/tag/v0.2.0">release notes on GitHub</a>.</p>]]></description>
+      <enclosure
+        url="https://github.com/musawirali/budgie-releases/releases/download/v0.2.0/Budgie-0.2.0.zip"
+        sparkle:edSignature="z4qzAteEjMKFEJfrADaypc1Nuh+rSX5SbGb7WpsTPbzyiFMvgtxInWTBFBLlkUsbNkSyATTMlOd30skY1VT6Dw=="
+        length="5331064"
+        type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
