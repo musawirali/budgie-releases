@@ -6,16 +6,16 @@
     <description>Most recent updates of Budgie</description>
     <language>en</language>
     <item>
-      <title>Version 0.2.1</title>
-      <pubDate>Thu, 21 May 2026 05:19:46 +0000</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <title>Version 0.2.2</title>
+      <pubDate>Thu, 21 May 2026 05:31:14 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>See the <a href="https://github.com/musawirali/budgie-releases/releases/tag/v0.2.1">release notes on GitHub</a>.</p>]]></description>
+      <description><![CDATA[<p>See the <a href="https://github.com/musawirali/budgie-releases/releases/tag/v0.2.2">release notes on GitHub</a>.</p>]]></description>
       <enclosure
-        url="https://github.com/musawirali/budgie-releases/releases/download/v0.2.1/Budgie-0.2.1.zip"
-        sparkle:edSignature="oawUm+ym2z4q5dwkZL4hUG5nsCJD/UBAT7fixb3SKbyOhkygt7IFBU69w+oGV/tpeyW8rtlpV5Blov5BA7uCAw=="
-        length="5331049"
+        url="https://github.com/musawirali/budgie-releases/releases/download/v0.2.2/Budgie-0.2.2.zip"
+        sparkle:edSignature="87ugEeYAztzkMPPWcTsVBoLlcWFd2u6cTK7OKTD/Kce/0j/ZHz86Muk4nBR1OFWB2e9BneBV/hOGfCciPmVwCA=="
+        length="5329378"
         type="application/octet-stream"/>
     </item>
   </channel>
