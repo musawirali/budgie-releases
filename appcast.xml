@@ -6,16 +6,16 @@
     <description>Most recent updates of Budgie</description>
     <language>en</language>
     <item>
-      <title>Version 0.2.8</title>
-      <pubDate>Thu, 21 May 2026 17:50:29 +0000</pubDate>
-      <sparkle:version>17</sparkle:version>
-      <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+      <title>Version 0.2.9</title>
+      <pubDate>Fri, 22 May 2026 05:02:56 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>See the <a href="https://github.com/musawirali/budgie-releases/releases/tag/v0.2.8">release notes on GitHub</a>.</p>]]></description>
+      <description><![CDATA[<p>See the <a href="https://github.com/musawirali/budgie-releases/releases/tag/v0.2.9">release notes on GitHub</a>.</p>]]></description>
       <enclosure
-        url="https://github.com/musawirali/budgie-releases/releases/download/v0.2.8/Budgie-0.2.8.dmg"
-        sparkle:edSignature="y3a64ueRQgm+I9o7Y1ukImbWOfVgsQZ90fOnyE9SKfoq90Er5hNt/4L2QUx+VtU76xX5oV5F6q726IOOkOfCDQ=="
-        length="5871901"
+        url="https://github.com/musawirali/budgie-releases/releases/download/v0.2.9/Budgie-0.2.9.dmg"
+        sparkle:edSignature="WSnwzN4wJ9927N+sTrmylgneZ1Dgn0UrHumT8x+EvnrWDZ/hjHaHh284NgOxu/BysKii8leMUYJJ/YBnTuuLAw=="
+        length="6138615"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
