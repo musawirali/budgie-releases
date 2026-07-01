@@ -6,16 +6,16 @@
     <description>Most recent updates of Budgie</description>
     <language>en</language>
     <item>
-      <title>Version 0.2.13</title>
-      <pubDate>Wed, 27 May 2026 21:03:52 +0000</pubDate>
-      <sparkle:version>22</sparkle:version>
-      <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
+      <title>Version 0.2.14</title>
+      <pubDate>Wed, 01 Jul 2026 17:09:00 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.2.14</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>See the <a href="https://github.com/musawirali/budgie-releases/releases/tag/v0.2.13">release notes on GitHub</a>.</p>]]></description>
+      <description><![CDATA[<p>See the <a href="https://github.com/musawirali/budgie-releases/releases/tag/v0.2.14">release notes on GitHub</a>.</p>]]></description>
       <enclosure
-        url="https://github.com/musawirali/budgie-releases/releases/download/v0.2.13/Budgie-0.2.13.dmg"
-        sparkle:edSignature="8I/c+oJuHm2YUT9Z/xcSwX07gMHZKgzpaMcZcpLF5K51RhA88MK0pN1xqYbxTliui5GVqET/nb3yLw+hWgIrCQ=="
-        length="6162049"
+        url="https://github.com/musawirali/budgie-releases/releases/download/v0.2.14/Budgie-0.2.14.dmg"
+        sparkle:edSignature="1HY4bkKPggQ21WuyyTt2GiyRP8MZtDDhS26HzN8wTpcKndrOF4EYHUU9kiym2eUy8bZj8CedhYQr1/HdedznDg=="
+        length="6169745"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
